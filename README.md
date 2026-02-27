@@ -67,6 +67,27 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | [Skills by Remotion](#skills-by-remotion-team) | [Skills by WordPress](#skills-by-wordpress-development-team) | [Skills by Transloadit](#skills-by-transloadit-team) |
 | [Skills by Firecrawl](#skills-by-firecrawl-team) | [Skills by OpenAI](#skills-by-openai) | [Skills by Replicate](#skills-by-replicate) |
 | [Skills by Typefully](#skills-by-typefully) | [Community Skills](#community-skills) | [Skill Quality Standards](#skill-quality-standards) |
+| [Targeted Skill Breakdown](#targeted-skill-breakdown-for-pdf-table-and-full-stack-workflows) |  |  |
+
+## Targeted Skill Breakdown for PDF, Table, and Full-Stack Workflows
+
+| Topic | Helpful skills in this repository |
+|---|---|
+| PDF extraction | [anthropics/pdf](https://github.com/anthropics/skills/tree/main/skills/pdf), [openai/pdf](https://github.com/openai/skills/tree/main/skills/.curated/pdf), [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) |
+| Table extraction | [microsoft/azure-ai-document-intelligence-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-dotnet), [microsoft/azure-ai-document-intelligence-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-ts), [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg) |
+| Docling | No dedicated Docling skill currently listed |
+| PyMuPDF | No dedicated PyMuPDF skill currently listed |
+| Python | [microsoft/agent-framework-azure-ai-py](https://github.com/microsoft/skills/tree/main/.github/skills/agent-framework-azure-ai-py), [microsoft/fastapi-router-py](https://github.com/microsoft/skills/tree/main/.github/skills/fastapi-router-py), [microsoft/pydantic-models-py](https://github.com/microsoft/skills/tree/main/.github/skills/pydantic-models-py) |
+| AI table extraction | [microsoft/azure-ai-document-intelligence-dotnet](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-dotnet), [microsoft/azure-ai-document-intelligence-ts](https://github.com/microsoft/skills/tree/main/.github/skills/azure-ai-document-intelligence-ts), [PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) |
+| Next.js | [vercel-labs/next-best-practices](https://github.com/vercel-labs/next-skills/tree/main/skills/next-best-practices), [vercel-labs/next-cache-components](https://github.com/vercel-labs/next-skills/tree/main/skills/next-cache-components), [vercel-labs/next-upgrade](https://github.com/vercel-labs/next-skills/tree/main/skills/next-upgrade) |
+| Docker environments | [microsoft/agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/agents-v2-py), [microsoft/hosted-agents-v2-py](https://github.com/microsoft/skills/tree/main/.github/skills/hosted-agents-v2-py), [microsoft/azure-containerregistry-py](https://github.com/microsoft/skills/tree/main/.github/skills/azure-containerregistry-py) |
+| Pydantic | [microsoft/pydantic-models-py](https://github.com/microsoft/skills/tree/main/.github/skills/pydantic-models-py) |
+| SurrealDB | No dedicated SurrealDB skill currently listed |
+| SQL | [supabase/postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices), [tinybirdco/tinybird-best-practices](https://github.com/tinybirdco/tinybird-agent-skills/tree/main/skills/tinybird-best-practices), [sanjay3290/postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) |
+| CSV / spreadsheets | [anthropics/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx), [openai/spreadsheet](https://github.com/openai/skills/tree/main/skills/.curated/spreadsheet) |
+| React | [vercel-labs/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices), [vercel-labs/composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns), [google-labs-code/react-components](https://github.com/google-labs-code/stitch-skills/tree/main/skills/react-components) |
+| AG-UI | No dedicated AG-UI skill currently listed (closest: [cloudflare/agents-sdk](https://github.com/cloudflare/skills/tree/main/skills/agents-sdk)) |
+| A2A | No dedicated A2A skill currently listed (closest: [cloudflare/building-ai-agent-on-cloudflare](https://github.com/cloudflare/skills/tree/main/skills/building-ai-agent-on-cloudflare)) |
 
 
 ### Skills Paths for Other AI Coding Assistants
